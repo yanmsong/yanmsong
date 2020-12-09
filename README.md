@@ -1,4 +1,4 @@
-### Hi, I'm Selina Song 👋
+### Hi, I'm Selina (Yanmeng) 👋
 
 I'm an inquisitive, self-motivated, and detail-oriented data scientist aspiring to harness the full value of data to better identify innovative opportunities and facilitate business success.
 
